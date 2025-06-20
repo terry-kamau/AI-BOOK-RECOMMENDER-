@@ -45,8 +45,8 @@ _Number of books per cluster_
 ## 🚀 Try It Yourself
 
 You can open and run the notebook in Google Colab:
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terry-kamau/ai-book-recommender-sdg4/blob/main/book_recommender.ipynb)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](...)
 
 
 ---
